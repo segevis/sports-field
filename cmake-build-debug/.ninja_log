@@ -1,0 +1,11 @@
+# ninja log v5
+14	992	7311891748420826	CMakeFiles/Software_engineering_principles_full_power.dir/User.cpp.obj	e835ec06e069fb85
+13	1114	7312023982061768	CMakeFiles/Software_engineering_principles_full_power.dir/DataBase.cpp.obj	389e25d6bd1bda94
+5	1563	7312061043070157	CMakeFiles/Software_engineering_principles_full_power.dir/main.cpp.obj	5e2b7323d508cd2e
+1000	2323	7311891760867524	CMakeFiles/Software_engineering_principles_full_power.dir/Order.cpp.obj	dae93a9491187ce
+1545	2662	7311891765146083	CMakeFiles/Software_engineering_principles_full_power.dir/Reservation.cpp.obj	c1af58ef763133fa
+20	789	7312023979468701	CMakeFiles/Software_engineering_principles_full_power.dir/Branch.cpp.obj	a1b5c2d426f24a8
+17	700	7311892831270383	CMakeFiles/Software_engineering_principles_full_power.dir/Player.cpp.obj	3ad32ed497c1d3ac
+13	1197	7312061039528259	CMakeFiles/Software_engineering_principles_full_power.dir/Field.cpp.obj	35dbd2c0cc2201d3
+701	1356	7311892837832819	CMakeFiles/Software_engineering_principles_full_power.dir/Manager.cpp.obj	24c341595ae13f43
+1568	1849	7312061045719180	Software_engineering_principles_full_power.exe	203318a1a8a398f5

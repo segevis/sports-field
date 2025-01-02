@@ -1,0 +1,3 @@
+C:/Users/segev/CLionProjects/sport field segev alone/cmake-build-debug/CMakeFiles/Software_engineering_principles_full_power.dir
+C:/Users/segev/CLionProjects/sport field segev alone/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/segev/CLionProjects/sport field segev alone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
